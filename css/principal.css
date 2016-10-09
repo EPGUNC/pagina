@@ -1,0 +1,65 @@
+body{
+
+margin: 0 auto;	
+width: 100%;
+}
+
+
+.banner {
+margin: 0px auto;
+width: 80%;
+align-content: center;
+}
+.escudo{
+	width: 90px;
+height: 90px;
+}
+.contenedor{
+border-radius: 1%;
+
+margin: 0 auto;	
+ 
+padding: 10px;
+background:	#87CEEB;
+width: 90%;
+height: auto;
+align-content: center;
+justify-content: center;
+
+}
+
+.carrusel{
+	width: 100%;
+height: 150px;
+}
+.carruselitem{
+	width: 100%;
+height: 150px;
+}
+.menu{
+	position: relative;
+	border-top: 1em;
+	align-content: center;
+	margin: 0 auto;
+}
+.fancyNav{
+	margin: 0 auto;
+	padding: 0 0;
+	
+
+}
+.banner{
+	margin: 0 auto;
+	size: 20% 20%
+
+}
+nav {
+	margin: 0 auto;
+	width: auto;
+	
+
+}
+.contenido{
+	height: auto;
+
+}
